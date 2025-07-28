@@ -1,11 +1,19 @@
 
-## Hi there, I'm Oc
+## **Hi there, I'm Oc**
 
 🎮 Game Developer | 💻 Software Engineer | 🇻🇳 From Vietnam  
 Tôi đam mê xây dựng game indie lấy cảm hứng từ văn hóa Việt Nam, đặc biệt là các thể loại turn-based & roguelike.
+
+# 🛠️ Kỹ năng chính
 ![Unity](https://img.shields.io/badge/-Unity-000?logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/-CSharp-239120?logo=c-sharp&logoColor=white)
 
+
+
+# 📈 GitHub Stats
+
+![Tuấn Anh's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuananhpham&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuananhpham&layout=compact&theme=tokyonight)
 
 <!--
 **ocainsakai/ocainsakai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
