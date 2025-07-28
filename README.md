@@ -8,7 +8,7 @@ Tôi đam mê xây dựng game indie lấy cảm hứng từ văn hóa Việt Na
 - [**AinCore**](https://github.com/ocainsakai/Ain): là một bộ các hệ thống cốt lõi (modular systems) do tôi tự phát triển để dùng lại trong nhiều game Unity.
   
 ## 🛠️ Kỹ năng chính
-- 🧩 Unity C# ![Unity](https://img.shields.io/badge/Unity-2022.3-blue?logo=unity) ![C#](https://img.shields.io/badge/C%23-8.0-blueviolet?logo=csharp)
+- 🧩 Unity C# ![Unity](https://img.shields.io/badge/Unity-blue?logo=unity) ![C#](https://img.shields.io/badge/C%23-8.0-blueviolet?logo=csharp)
 - ⚙️ DOTween, UniTask, UniRx, Addressables ![UniTask](https://img.shields.io/badge/UniTask-Cysharp-yellow) ![UniRx](https://img.shields.io/badge/UniRx-Async-green)
 - 🧪 Xây dựng Core reusable modules: TurnSystem, HealthSystem, Input, State Machine
 
