@@ -1,4 +1,11 @@
-## Hi there 👋
+
+## Hi there, I'm Oc
+
+🎮 Game Developer | 💻 Software Engineer | 🇻🇳 From Vietnam  
+Tôi đam mê xây dựng game indie lấy cảm hứng từ văn hóa Việt Nam, đặc biệt là các thể loại turn-based & roguelike.
+![Unity](https://img.shields.io/badge/-Unity-000?logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/-CSharp-239120?logo=c-sharp&logoColor=white)
+
 
 <!--
 **ocainsakai/ocainsakai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
