@@ -18,8 +18,8 @@ Tôi đam mê xây dựng game indie lấy cảm hứng từ văn hóa Việt Na
   
 ## 📈 GitHub Stats
 
-- ![Tuấn Anh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ocainsakai&show_icons=true&theme=tokyonight)
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ocainsakai&layout=compact&theme=tokyonight)
++ ![Tuấn Anh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ocainsakai&show_icons=true&theme=tokyonight)
++ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ocainsakai&layout=compact&theme=tokyonight)
 
 <!--
 **ocainsakai/ocainsakai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
