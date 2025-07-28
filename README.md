@@ -5,8 +5,8 @@
 Tôi đam mê xây dựng game indie lấy cảm hứng từ văn hóa Việt Nam, đặc biệt là các thể loại turn-based & roguelike.
 
 ## 🚀 Dự án
-- [**AinCore**](https://github.com/ocainsakai/Ain): **AinCore** là một bộ các hệ thống cốt lõi (modular systems) do tôi tự phát triển để dùng lại trong nhiều game Unity.
-- 
+- [**AinCore**](https://github.com/ocainsakai/Ain): là một bộ các hệ thống cốt lõi (modular systems) do tôi tự phát triển để dùng lại trong nhiều game Unity.
+  
 ## 🛠️ Kỹ năng chính
 ![Unity](https://img.shields.io/badge/-Unity-000?logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/-CSharp-239120?logo=c-sharp&logoColor=white)
