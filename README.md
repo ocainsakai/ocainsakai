@@ -9,7 +9,7 @@ Tôi đam mê xây dựng game indie lấy cảm hứng từ văn hóa Việt Na
   
 ## 🛠️ Kỹ năng chính
 - 🧩 Unity C# ![Unity](https://img.shields.io/badge/Unity-blue?logo=unity) ![C#](https://img.shields.io/badge/C%23-8.0-blueviolet?logo=csharp)
-- ⚙️ DOTween, UniTask, UniRx, Addressables ![UniTask](https://img.shields.io/badge/UniTask-Cysharp-yellow?logo=unitask) ![UniRx](https://img.shields.io/badge/UniRx-Async-green)
+- ⚙️ DOTween, UniTask, UniRx
 - 🧪 Xây dựng Core reusable modules: TurnSystem, HealthSystem, Input, State Machine
 
 ## 📫 Liên hệ
