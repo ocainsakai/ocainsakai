@@ -11,7 +11,7 @@ Tôi đam mê xây dựng game indie lấy cảm hứng từ văn hóa Việt Na
 ## 📫 Liên hệ
 
 - Email: anhpt.l.1922@gmail.com  
-- LinkedIn: [linkedin.com/in/tuananhpham](https://www.linkedin.com/in/anh-ph%E1%BA%A1m-395113211/))  
+- LinkedIn: [linkedin.com/in/tuananhpham](https://www.linkedin.com/in/anh-ph%E1%BA%A1m-395113211/)
 
 
 
