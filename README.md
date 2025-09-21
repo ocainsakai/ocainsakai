@@ -5,8 +5,6 @@
   
 ## 🛠️ Kỹ năng chính
 - 🧩 Unity C# ![Unity](https://img.shields.io/badge/Unity-blue?logo=unity) ![C#](https://img.shields.io/badge/C%23-8.0-blueviolet?logo=csharp)
-- ⚙️ DOTween, UniTask, UniRx
-- 🧪 Xây dựng Core reusable modules: TurnSystem, HealthSystem, Input, State Machine
 
 ## 📫 Liên hệ
 
