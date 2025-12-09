@@ -11,11 +11,12 @@
 - Email: anhpt.l.1922@gmail.com  
 - LinkedIn: [linkedin.com/in/tuananhpham](https://www.linkedin.com/in/anh-ph%E1%BA%A1m-395113211/)
   
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TÊN_USER_CỦA_BẠN&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ocainsakai/ocainsakai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
