@@ -13,9 +13,6 @@
 ---
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ocainsakai&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocainsakai&layout=compact&theme=radical&hide=shaderlab,html,css" height="180" alt="languages graph" />
-
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ocainsakai&show_icons=true&theme=radical" height="180" alt="stats graph" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ocainsakai&layout=compact&theme=radical&hide=shaderlab,html,css" height="180" alt="languages graph" />
 </div>
